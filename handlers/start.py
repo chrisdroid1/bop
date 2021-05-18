@@ -68,6 +68,8 @@ async def help(client: Client, message: Message):
 /end - stop music play
 /userbotjoin - invite assistant to your chat
 /admincache - Refresh admin list
+
+IF ANY ISSUE IN MY BOT OTHERWISE GIVE FEEDBACK TO ME AT @TERABAAP_DEVIL
  </b>""",
         reply_markup=InlineKeyboardMarkup(
             [
