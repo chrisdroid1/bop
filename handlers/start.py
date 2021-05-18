@@ -10,7 +10,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~ filters.edited
 )
 async def start_(client: Client, message: Message):
-    await message.reply_sticker("CAACAgEAAxkBAAEJ8eVgo81GMwjTZ4x1XWFl5yFxH0v5gwAC2AADEfohRSph8muhr0_fHwQ")
+    await message.reply_sticker("CAACAgEAAxkBAAEJ8gVgo9NwJq6snYFkDNZTnBnmh7NJWwACYwEAAglCIUVK3mKOZv4Y0B8E")
     
 @Client.on_message(
     filters.command("start")
