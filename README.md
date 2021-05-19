@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/cda084c19e69069f5e0ec.jpg">
+  <img src="https://telegra.ph/file/8636c6bf80e7806a2e80d.png">
 </p>
 
 # How To Host
