@@ -1,18 +1,17 @@
-# 𝐏𝐀𝐓𝐑𝐈𝐂𝐈𝐀 𝐌𝐔𝐒𝐈𝐂
+###[𝐏𝐀𝐓𝐑𝐈𝐂𝐈𝐀 𝐌𝐔𝐒𝐈𝐂](t.me/patricia_Robot)
+<p align="center">
+<img src="https://telegra.ph/file/de8e07908f887c55d6993.jpg">
+</p>
 
-      <p align="center">
-      <img src="https://telegra.ph/file/de8e07908f887c55d6993.jpg">
-      </p>
+# How To Host
+The easiest way to deploy this Bot
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Bot-support/PATRICIA_MUSIC_BOT"> <img src="https://telegra.ph/file/fbee91847ade16a9ffe4d.png" width="220" height="38.45"/></a></p>
 
-      # How To Host
-     The easiest way to deploy this Bot
-     <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Bot-support/PATRICIA_MUSIC_BOT"> <img src="https://telegra.ph/file/fbee91847ade16a9ffe4d.png" width="220" height="38.45"/></a></p>
+Get STRING_NAME from here:
 
-     Get STRING_NAME from here:
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/Pyrogramstringbot)
 
-     [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/Pyrogramstringbot)
-
-    ### Mandatory Vars.
+### Mandatory Vars.
 
    - Some Of The Mandatory Vars Are :-
    - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
@@ -26,16 +25,14 @@
 
 
 
-
-    ## Commands 🛠
-
-   - `/play <song name>` - play song you requested
-   - `/dplay <song name>` - play song you requested via deezer
-   - `/splay <song name>` - play song you requested via jio saavn
-   - `/playlist` - Show now playing list
-   - `/current` - Show now playing
-   - `/song <song name>` - download songs you want quickly
-   - `/search <query>` - search videos on youtube with details
+ ## Commands 🛠
+ - `/play <song name>` - play song you requested
+ - `/dplay <song name>` - play song you requested via deezer
+ - `/splay <song name>` - play song you requested via jio saavn
+ - `/playlist` - Show now playing list
+ - `/current` - Show now playing
+ - `/song <song name>` - download songs you want quickly
+  - `/search <query>` - search videos on youtube with details
    - `/deezer <song name>` - download songs you want quickly via deezer
    - `/saavn <song name>` - download songs you want quickly via saavn
    - `/video <song name>` - download videos you want quickly
