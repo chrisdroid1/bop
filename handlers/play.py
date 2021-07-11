@@ -406,7 +406,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name =  "patriciaXmusic"
+        user.first_name =  "KaelaVC"
     usar = user
     wew = usar.id
     try:
@@ -427,7 +427,7 @@ async def play(_, message: Message):
                               await USER.join_chat(invitelink)
                               await USER.send_message(message.chat.id,"I joined this group for playing music in VC")
                               await lel.edit(
-                                  "<b>@patriciaXmusic userbot joined your chat</b>",
+                                  "<b>@KaelaVC userbot joined your chat</b>",
                               )
 
                           except UserAlreadyParticipant:
@@ -436,7 +436,7 @@ async def play(_, message: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                                  "\n\nOr manually add @patriciaXmusic to your Group and try again</b>",
+                                  "\n\nOr manually add @KaelaVC to your Group and try again</b>",
                               )
                               pass
     try:
@@ -444,7 +444,7 @@ async def play(_, message: Message):
         #lmoa = await client.get_chat_member(chid,wew)
     except:
         await lel.edit(
-            f"<i> @patriciaXmusic Userbot not in this chat, Ask admin to send /play command for first time or add assistant manually</i>"
+            f"<i> @KaelaVC Userbot not in this chat, Ask admin to send /play command for first time or add assistant manually</i>"
         )
         return     
     sender_id = message.from_user.id
@@ -554,7 +554,7 @@ async def deezer(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name =  "patriciaXmusic"
+        user.first_name =  "KaelaVC"
     usar = user
     wew = usar.id
     try:
@@ -575,7 +575,7 @@ async def deezer(client: Client, message_: Message):
                               await USER.join_chat(invitelink)
                               await USER.send_message(message_.chat.id,"I joined this group for playing music in VC")
                               await lel.edit(
-                                  "<b>@patriciaXmusic userbot joined your chat</b>",
+                                  "<b>@KaelaVC userbot joined your chat</b>",
                               )
 
                           except UserAlreadyParticipant:
@@ -584,7 +584,7 @@ async def deezer(client: Client, message_: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                                  "\n\nOr manually add @patriciaXmusic to your Group and try again</b>",
+                                  "\n\nOr manually add @KaelaVC to your Group and try again</b>",
                               )
                               pass
     try:
@@ -705,7 +705,7 @@ async def jiosaavn(client: Client, message_: Message):
                               await USER.join_chat(invitelink)
                               await USER.send_message(message_.chat.id,"I joined this group for playing music in VC")
                               await lel.edit(
-                                  "<b>@patriciaXmusic helper userbot joined your chat</b>",
+                                  "<b>@KaelaVC helper userbot joined your chat</b>",
                               )
 
                           except UserAlreadyParticipant:
@@ -714,7 +714,7 @@ async def jiosaavn(client: Client, message_: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                                  "\n\nOr manually add @patriciaXmusic to your Group and try again</b>",
+                                  "\n\nOr manually add @KaelaVC to your Group and try again</b>",
                               )
                               pass
     try:
