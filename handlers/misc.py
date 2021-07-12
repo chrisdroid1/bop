@@ -19,5 +19,5 @@ HELP_TEXT = """<b>Hi {message.from_user.first_name}!
 /admincache - Refresh admin list
  </b>""",
 
-REPO_TEXT = "[Github](https://github.com)" \
-            + " | [Group](t.me/Patricia_support)"
+REPO_TEXT = "[Github](https://t.me/Mrkahno)" \
+            + " | [Group](t.me/Kaelasupport)"
