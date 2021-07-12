@@ -7,7 +7,7 @@
 
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Bot-support/PATRICIA_MUSIC_BOT"> <img src="https://telegra.ph/file/fbee91847ade16a9ffe4d.png" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Chrisdroid1/bop"> <img src="https://telegra.ph/file/fbee91847ade16a9ffe4d.png" width="220" height="38.45"/></a></p>
 
 Get STRING_NAME from here:
 
