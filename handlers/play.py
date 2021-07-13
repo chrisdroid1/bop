@@ -371,7 +371,7 @@ async def m_cb(b, cb):
                 ],
                 [       
                     InlineKeyboardButton("❌ Close",'cls')
-                ]        
+                ],        
             ]
         )
         await cb.message.edit(stats, reply_markup=marr) 
