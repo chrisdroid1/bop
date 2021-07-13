@@ -361,7 +361,11 @@ async def m_cb(b, cb):
                 ],
                 [
                     InlineKeyboardButton('Playlist 📖', 'playlist'),
-                
+                [
+                    InlineKeyboardButton(
+                text="SUPPORT", url="https://t.me/Kaelasupport"),
+                    InlineKeyboardButton(
+                text="ANIME GROUP", url="https://t.me/TheHellraisedColiseum")
                 ],
                 [       
                     InlineKeyboardButton("❌ Close",'cls')
@@ -498,7 +502,11 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         text="Watch On YouTube 🎬",
                         url=f"{url}")
-
+                [
+                    InlineKeyboardButton(
+                text="SUPPORT", url="https://t.me/Kaelasupport"),
+                    InlineKeyboardButton(
+                text="ANIME GROUP", url="https://t.me/TheHellraisedColiseum")
                 ],
                 [       
                     InlineKeyboardButton(
@@ -764,7 +772,7 @@ async def jiosaavn(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="Join Updates Channel",
-                   url='https://t.me/patricia_updates')
+                   url='https://t.me/Kaelasupport')
              ],
              [       
                InlineKeyboardButton(
