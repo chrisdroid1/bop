@@ -504,18 +504,14 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         text="Watch On YouTube 🎬",
                         url=f"{url}")
-                ],
-                [
-                    InlineKeyboardButton(
-                text="SUPPORT", url="https://t.me/Kaelasupport"),
-                    InlineKeyboardButton(
-                text="ANIME GROUP", url="https://t.me/TheHellraisedColiseum")
+
                 ],
                 [       
                     InlineKeyboardButton(
                         text="❌ Close",
                         callback_data='cls')
-                ],                            
+
+                ]                             
             ]
         )
     requested_by = message.from_user.first_name
