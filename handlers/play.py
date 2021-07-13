@@ -514,7 +514,7 @@ async def play(_, message: Message):
                 [       
                     InlineKeyboardButton(
                         text="❌ Close",
-                        callback_data=")
+                        callback_data='cls')
                 ],                            
             ]
         )
