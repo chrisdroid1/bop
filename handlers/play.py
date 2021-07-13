@@ -500,6 +500,13 @@ async def play(_, message: Message):
                         url=f"{url}")
 
                 ],
+                [
+                    InlineKeyboardButton(
+                        text="ANIMEGROUP", url="https://t.me/TheHellraisedColiseum"),
+                    InlineKeyboardButton(
+                        text="👥 SUPPORT 👥", url="https://t.me/kaelasupport"
+                )
+                ],
                 [       
                     InlineKeyboardButton(
                         text="❌ Close",
