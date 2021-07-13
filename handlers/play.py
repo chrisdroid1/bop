@@ -361,11 +361,13 @@ async def m_cb(b, cb):
                 ],
                 [
                     InlineKeyboardButton('Playlist 📖', 'playlist'),
+                ],
                 [
                     InlineKeyboardButton(
                 text="SUPPORT", url="https://t.me/Kaelasupport"),
                     InlineKeyboardButton(
                 text="ANIME GROUP", url="https://t.me/TheHellraisedColiseum")
+
                 ],
                 [       
                     InlineKeyboardButton("❌ Close",'cls')
