@@ -188,7 +188,7 @@ def r_ply(type_):
                 InlineKeyboardButton(
             text="SUPPORT", url="https://t.me/Kaelasupport"),
                 InlineKeyboardButton(
-            text="ANIME GROUP", url="https://t.me/TheHellraisedColiseum")
+            text="FIRE-X USERBOT", url="https://t.me/FireXUserBot")
             ],
             [       
                 InlineKeyboardButton("❌ Close",'cls')
@@ -502,7 +502,7 @@ async def play(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        text="ANIMEGROUP", url="https://t.me/TheHellraisedColiseum"),
+                        text="FIRE-X USERBOT", url="https://t.me/FireXUserBot"),
                     InlineKeyboardButton(
                         text="👥 SUPPORT 👥", url="https://t.me/kaelasupport"
                 )
